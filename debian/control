@@ -9,6 +9,7 @@ Homepage: https://huayra.educar.gob.ar
 Package: huayra-desktop-santa-cruz
 Architecture: all
 Depends: ${misc:Depends},
+  huayra-backgrounds-santa-cruz,
   huayra-grub-themes-crux (>= 1.20),
   huayra-desktop-mate-settings (>= 5.0)
 Description: Opciones de configuración para escritorio Santa Cruz
