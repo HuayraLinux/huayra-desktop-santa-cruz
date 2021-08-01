@@ -1,3 +1,9 @@
+huayra-desktop-santa-cruz (1.1) unstable; urgency=medium
+
+  * fix path wallpaper 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Sun, 01 Aug 2021 01:52:24 -0300
+
 huayra-desktop-santa-cruz (1.0) unstable; urgency=medium
 
   * Version inicial
