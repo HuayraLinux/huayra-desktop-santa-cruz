@@ -1,3 +1,9 @@
+huayra-desktop-santa-cruz (1.2) unstable; urgency=medium
+
+  * config por defecto de distribution.ini de firefox
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Tue, 29 Mar 2022 10:07:13 -0300
+
 huayra-desktop-santa-cruz (1.1) unstable; urgency=medium
 
   * fix path wallpaper 
